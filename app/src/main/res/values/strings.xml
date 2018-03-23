@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ConstraintLayoutDemo</string>
+    <string name="imagedescription">ImageDescription</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="virginia_beach">Virginia Beach</string>
+    <string name="editText">Edit text description</string>
+    <string name="back">Back</string>
+    <string name="next">next</string>
+    <string name="log_onCreate">Activity created</string>
+    <string name="log_onStart">Activity started</string>
+    <string name="log_onResume">Activity Resumed</string>
+    <string name="log_onPause">Activity Paused</string>
+    <string name="log_onStop">Activity Stopped</string>
+</resources>
